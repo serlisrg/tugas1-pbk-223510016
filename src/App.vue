@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/serli.JPEG" width="400" height="400" />
+    <img alt="Vue logo" class="logo" src="./assets/serli.jpeg" width="400" height="400" />
 
     <div class="wrapper">
       <HelloWorld msg="Hai Nama Saya Serlina Siregar!" />
